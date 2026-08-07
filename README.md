@@ -8,8 +8,8 @@
 
 ## Watch a 14 Byte Neural Network Solve a Maze
 
-![Watch a 14 Byte Neural Network Solve a Maze](./media/minimio-maze-solver-main.gif)
+![Watch a 14 Byte Neural Network Solve a Maze](./media/minimio-maze-solver-main.png)
 
 ## Watch a 178 Byte State Machine Classify Lexical Tokens
 
-![Watch a 178 Byte State Machine Classify Lexical Tokens](./media/minimio-microlex-main.gif)
+![Watch a 178 Byte State Machine Classify Lexical Tokens](./media/minimio-microlex-main.png)
