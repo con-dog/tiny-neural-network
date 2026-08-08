@@ -2,6 +2,8 @@
 
 > [!WARNING]
 > This write-up is an active work in progress. Some benchmarks and claims are changing as I continue to revisit the project. My speed of experimentation outpaced my speed of understanding.
+>
+> This is the public write-up for a private repository, so some of the content is intentionally vague or incomplete. If you have questions, please reach out to me directly.
 
 [Link to the Maze Solver]()
 
